@@ -34,7 +34,7 @@
     "husky": "^9.1.7",
     "konsistent": "0.0.1-alpha.15",
     "lint-staged": "^15.5.1",
-    "next": "15.0.7",
+    "next": "15.5.29",
     "oxfmt": "^0.41.0",
     "oxlint": "^1.56.0",
     "playwright": "^1.44.1",
